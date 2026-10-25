@@ -1,0 +1,8 @@
+/.vs
+/TaskManager
+/x64
+
+*.*.user
+*.*.filters
+*.sln
+*.vcxproj
